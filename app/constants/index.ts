@@ -72,6 +72,7 @@ export const sampleBooks = [
     summary:
       "A dazzling novel about all the choices that go into a life well lived, The Midnight Library tells the story of Nora Seed as she finds herself between life and death. A dazzling novel about all the choices that go into a life well lived, The Midnight Library tells the story of Nora Seed as she finds herself between life and death.",
   },
+
   {
     id: 2,
     title: "Atomic Habits",
